@@ -1,0 +1,55 @@
+{
+    "navbar":[
+        "Sobre mí", "Conocimientos", "Proyectos", "Contacto"
+    ],
+    "home": ["Hola! Soy", "Desarrolladora web full stack MERN y mobile apps", "Descargar CV", "Contratar"],
+    "about":["Sobre mí","Desde que descrubrí la programación y todo lo que se puede hacer con ella, decidí cambiar de carrera. Es un ámbito que me apasiona y a su vez me permite desarrollar toda mi creatividad y capacidad de resolver problemas. Tengo muchas ganas de seguir aprendiendo de este mundo.","Me adapto fácilmente y estoy abierta a aprender nuevas tecnologías y lenguajes. Busco trabajar en un entorno amigable y que me genere nuevos desafíos 😊"],
+    "knowledge": "Conocimientos",
+    "projects":[{
+            "name":"Marketplace Gamer",
+            "link":"https://www.youtube.com/watch?v=AuHNVFE97YE",
+            "img":"https://i.imgur.com/B2S48OV.png",
+            "description":"Proyecto grupal. Desarrollo de Marketplace. Catálogo, carrito, checkout de la compra, panel para usuario vendedor, panel para administradores y más funcionalidades!",
+            "pag":"ver video",
+            "tech":["REACT","REDUX","NODE","EXPRESS","SEQUELIZE","POSTGRESQL","CSS","MATERIAL UI"]
+        },
+        {
+            "name":"World's countries",
+            "link":"https://www.linkedin.com/posts/natalia-veron_hola-les-comparto-mi-proyecto-individual-activity-6815732347489554432-NA79",
+            "img":"https://i.imgur.com/YMWmMKH.png",
+            "description":"Se pueden buscar, ordenar, filtrar países y crear actividades turísticas",
+            "pag":"ver video",
+            "tech":["REACT","REDUX","NODE","EXPRESS","SEQUELIZE","POSTGRESQL","CSS"]
+        
+        },
+        {
+            "name":"Portafolio",
+            "link":"",
+            "img":"https://i.imgur.com/lHXQzWY.png",
+            "description":"Este es mi portafolio personal. Podes encontrar un poco sobre mí, mis proyectos y cómo contactarme.",
+            "pag":"ver página",
+            "tech":["REACT","SASS"]
+        },
+        {
+            "name":"Wheater app",
+            "link":"https://weatherapp-drab-omega.vercel.app/",
+            "img":"https://i.imgur.com/DeLHKoR.png",
+            "description":"Mini app de búsqueda de ciudades de todo el mundo, mostrando el clima en tiempo real",
+            "pag":"ver página",
+            "tech":["REACT","SASS"]
+        },
+        {
+            "name":"To-Do App",
+            "link":"https://nativeron.github.io/ToDo-App/",
+            "img":"https://user-images.githubusercontent.com/80424181/116430778-87281100-a81d-11eb-834a-367873d16747.png",
+            "description":"Mini app de lista de recordatorios",
+            "pag":"ver página",
+            "tech":["HTML","CSS", "JAVASCRIPT"]
+        },
+        "Proyectos"
+    ],
+    "contact":[
+        "Contacto", "Tu nombre", "Tu mensaje", "Tu mail", "enviar",
+        "¡Gracias por tu mensaje! Te daré una respuesta lo mas pronto posible","Ups, parece que algo salió mal. Por favor, intenta mandarlo de nuevo sino escribime a mi mail nataliaveronduarte@gmail.com"
+    ]
+}
